@@ -1,19 +1,16 @@
-<table>
-  <tr>
-    <td width="120" valign="top"> 
-      <img src="octocat.png" alt="Meu Octocat Personalizado" width="100"> 
-    </td>
-    <td valign="middle">
-      <h1>Olá! 👋 Sou Gustavo Campana (zug96)</h1>
-    </td>
-  </tr>
-</table>
+<h1 align="center"> Olá! 👋 Sou Gustavo Campana (zug96)</h1>
+
+<p align="center">
+  <img src="octocat.png" alt="Meu Octocat Personalizado" width="150"> 
+  </p>
+
+---
 
 <p>Sou estudante na reta final do curso de <strong>Pedagogia</strong> pela <strong>Universidade Federal de São Carlos (UFSCar)</strong> e um entusiasta de tecnologia em pleno desenvolvimento!</p>
 <p>Minha paixão por entender os processos de aprendizagem se encontrou com um crescente interesse em como a tecnologia, especialmente o <strong>Linux</strong> e a programação <strong>Python</strong>, pode otimizar tarefas e criar soluções práticas.</p>
-<p>Atualmente, estou imerso no <strong>Santander Bootcamp - Linux para Iniciantes</strong> [AJUSTE O NOME SE NECESSÁRIO] em parceria com a <strong>Digital Innovation One (DIO)</strong>, buscando aprofundar meus conhecimentos técnicos e conectar esses dois mundos!</p>
+<p>Atualmente, estou imerso no <strong>Santander Bootcamp - Linux para Iniciantes</strong> em parceria com a <strong>Digital Innovation One (DIO)</strong>, buscando aprofundar meus conhecimentos técnicos e conectar esses dois mundos!</p>
       
-<h2>📫 Contato</h2> 
+### 📫 Contato
 <p>
   <a href="https://www.linkedin.com/in/gustavo-correa-campana-764589168/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Campana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ccampanagus@gmail.com"><img src="https://img.shields.io/badge/Gmail-ccampanagus@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
